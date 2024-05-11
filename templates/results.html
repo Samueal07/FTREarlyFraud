@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fraud Detection Results</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <header>
+      <h1>Fraud Detection Results</h1>
+      <nav>
+        <a href="/">Home</a>
+      </nav>
+    </header>
+    <div class="container">
+      <h2>Results</h2>
+      <p><strong>Input:</strong> {{ user_input }}</p>
+      <p><strong>Prediction:</strong> {{ prediction }}</p>
+      <h3>Fetched Content:</h3>
+      <div class="fetched-content">{{ page_content }}</div>
+    </div>
+  </body>
+</html>

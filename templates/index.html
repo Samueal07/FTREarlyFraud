@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fraud Detection</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <header>
+      <h1>Fraud Detection</h1>
+      <nav>
+        <a href="/">Home</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+    <div class="container">
+      <h2>Check for Fraud</h2>
+
+      <!-- Form for text input -->
+      <form action="/check-results" method="post">
+        <label for="user-input">Enter your text or link:</label>
+        <input
+          type="text"
+          id="user-input"
+          name="link"
+          placeholder="Enter text or link here"
+          required
+        />
+        <button type="submit">Check</button>
+      </form>
+
+      <!-- Form for QR code image upload -->
+      <h3>Upload QR Code</h3>
+      <form action="/decode-qr" method="post" enctype="multipart/form-data">
+        <label for="qr-image">Upload a QR code image:</label>
+        <input
+          type="file"
+          id="qr-image"
+          name="qr_image"
+          accept="image/*"
+          required
+        />
+        <button type="submit">Upload and Decode</button>
+      </form>
+
+      <!-- New form for text image upload -->
+      <h3>Upload an Image with Text</h3>
+      <form
+        action="/analyze-image-text"
+        method="post"
+        enctype="multipart/form-data"
+      >
+        <label for="text-image">Upload an image with text:</label>
+        <input
+          type="file"
+          id="text-image"
+          name="text_image"
+          accept="image/*"
+          required
+        />
+        <button type="submit">Analyze Text</button>
+      </form>
+
+      <!-- New form to analyze URL -->
+      <h3>Analyze a URL</h3>
+      <form action="/analyze-url" method="post">
+        <label for="url-input">Enter the URL:</label>
+        <input
+          type="text"
+          id="url-input"
+          name="url"
+          placeholder="Enter URL here"
+          required
+        />
+        <button type="submit">Analyze</button>
+      </form>
+    </div>
+  </body>
+</html>

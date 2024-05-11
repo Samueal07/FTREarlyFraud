@@ -1,0 +1,61 @@
+scenario,label
+John calls Emily claiming to be from her credit card issuer's fraud department. He tells her that suspicious charges have been detected and asks her to confirm her card number and CVV to resolve the issue.,1
+"A caller identifies as Mike from a well-known tech company, telling Samantha that her computer has a virus. He asks for remote access to her computer and requests her credit card details for a fake antivirus software.",1
+"Rachel calls Tom, claiming to be from the Social Security Administration. She says his Social Security number has been compromised and needs verification. To fix the issue, she requests his personal information and bank account details.",1
+"Linda calls Mark, claiming to be from his mortgage company. She offers him a temporary mortgage relief program and asks for his mortgage account number and other personal information to set it up.",1
+"Jessica calls Alan, pretending to represent his credit card company. She tells him that he's been enrolled in a rewards program and requests his credit card number to apply the benefits.",1
+"Oscar contacts Sarah, claiming to represent her insurance company. He states that her policy needs updating and asks for her policy number and other personal information to update her records.",1
+"Tom calls Lucy, pretending to represent her bank, and offers her a low-interest loan. To proceed, he asks for her bank account details and other sensitive information.",1
+"Daniel contacts Kate, claiming to be from the Internal Revenue Service (IRS). He says that she owes back taxes and must pay immediately to avoid legal consequences. He asks for her bank details to process the payment.",1
+"Sam calls Laura, pretending to represent a government agency offering a grant for small businesses. He asks for her business bank account details to deposit the grant funds.",1
+"Diana contacts John, pretending to represent a popular social media platform. She says his account needs to be verified and asks for his login credentials to proceed.",1
+"Matthew contacts Paula, claiming to represent her home security company. He offers a free system upgrade but needs her account number and address to schedule installation.",1
+"Stephanie calls Brian, pretending to be from his health insurance provider. She says there's an issue with his current plan and asks for his policy number and other personal information to update his coverage.",1
+"Emma calls Chris, offering credit card debt relief. To start the process, she asks for his credit card numbers and other personal information.",1
+"James calls Monica, pretending to represent her bank. He tells her about a new premium account with exclusive benefits and requests her current account number to upgrade her account.",1
+"Oliver contacts Helen, pretending to represent a well-known charity. He asks for a donation and provides a phone number to call back with credit card information.",1
+"Benjamin calls Alice, claiming to be a debt collector. He says she has an outstanding loan and threatens legal action if she doesn't pay immediately, requesting her bank account details for payment.",1
+"Natalie calls Andrew, offering a discounted travel package. She asks for his credit card information to confirm the booking and secure the special rate.",1
+"Alexander contacts Susan, pretending to represent an investment firm. He offers an exclusive investment opportunity and asks for her bank account details to proceed.",1
+"Samantha contacts Michael, claiming to represent a university. She offers him a scholarship but needs his personal information and bank details to process the scholarship funds.",1
+"Patrick calls Carol, pretending to represent a popular magazine. He offers her a subscription renewal at a discounted rate and requests her credit card details to proceed.",1
+"William contacts Mary, offering home repair services. He asks for her address and credit card details to schedule a consultation and process the initial fee.",1
+"Charlotte calls Robert, pretending to represent his mobile service provider. She offers a plan update with better rates and asks for his account details to proceed.",1
+"Victoria calls Kevin, claiming to represent his auto insurance company. She asks for his policy number and other personal information to verify his coverage.",1
+"David contacts Jenna, offering a discounted car rental. He asks for her credit card details to confirm the booking and secure the special rate.",1
+"Megan contacts George, offering a gift card for his favorite store. To receive it, she asks for his address and credit card details to pay for shipping.",1
+"Laura contacts Anthony, offering tickets to a popular sports event. She asks for his credit card details to confirm the booking and secure the tickets.",1
+"Peter calls Sandra, claiming to represent her local utility company. He asks for her address and other personal information to schedule maintenance and avoid service disruption.",1
+"Amanda contacts Greg, offering financial advice and portfolio management services. She asks for his bank account details to begin the investment process.",1
+"Daniel calls Nancy, offering a discount on her favorite online store. He asks for her credit card details to apply the discount and complete the purchase.",1
+"Rebecca contacts Bruce, claiming to represent a streaming service. She tells him that his subscription is being canceled and asks for his credit card details to prevent the cancellation and keep his subscription active.",1
+Alice receives a call from 'Sam' claiming to be from her bank's fraud department. He says that there's suspicious activity on her account and asks her to confirm her account number and the one-time password (OTP) sent to her phone.,1
+Ben gets a call from 'Lily' from the customer service team at XYZ Bank. Lily mentions that there's an issue with his account and requests his credit card number and CVV to resolve the problem.,1
+Clara receives a call from 'Mike' who claims to be from the local utility company. He threatens to cut off her electricity unless she provides her bank details to pay the outstanding bill.,1
+"David answers an automated call informing him that his bank account has been locked due to suspicious activity. He's instructed to press '1' to speak with a customer service agent, who asks for personal information to unlock the account.",1
+"Emma receives a call from 'John' claiming to be conducting a survey on behalf of ABC Bank. He asks her for her bank account details, suggesting it's for research purposes.",1
+Frank gets a call from 'Jessica' who claims to be from a government agency offering financial assistance due to the pandemic. Jessica asks for his bank details to process the payment.,1
+"Grace receives a call from 'Tom' claiming to be from her bank, stating that her account will be closed unless she provides her login credentials for verification.",1
+Henry gets a call from 'Linda' claiming to represent a charity organization. Linda asks for a donation and requests Henry's bank details to process the payment.,1
+Irene is called by 'Oscar' who claims that she's won a prize in a contest. Oscar asks for her bank account details to verify her identity and claim the prize.,1
+"Jack receives a call from 'Rachel' pretending to be a law enforcement officer. She threatens legal action for non-payment of a fictitious debt and requests immediate payment, asking for his banking information to settle the alleged debt.",1
+"A caller claims to be from your bank's fraud department and informs you that your account has been compromised. They request your account number, password, and OTP to verify your identity.",1
+"Someone posing as a bank representative calls you, stating that there's an issue with your account and asks for your card details and CVV for verification.",1
+"An automated voice message informs you that your account has been locked due to suspicious activity and prompts you to press a number to speak with a customer service agent, who then asks for your personal information.",1
+"A caller pretends to be conducting a survey on behalf of your bank and asks for your account details, claiming it's for research purposes.",1
+"You receive a call claiming to be from a government agency offering financial assistance due to the pandemic, but they require your bank details to process the payment.",1
+A scammer poses as a bank employee and tells you that your account is about to be closed unless you provide your login credentials for verification.,1
+"A caller says they are updating their records and need you to confirm your account information, including your address, phone number, and security questions.",1
+Someone pretending to be a bank representative informs you that your account has been selected for a special offer but requires your personal and financial information to proceed.,1
+You receive a call congratulating you on winning a prize but need to verify your identity by providing your bank account details.,1
+"A caller threatens legal action against you for non-payment of a fictitious debt and demands immediate payment, requesting your banking information to process the transaction.",1
+"A recorded message claims to be from your bank and asks you to press a button to verify your account, leading you to a live agent who requests sensitive information.",1
+A scammer poses as a tech support agent from a well-known company and asks for your bank account details to process a refund for a supposed overcharge.,1
+You receive a call offering a lower interest rate on your credit card but require your card number and expiry date for verification.,1
+"A caller claims to be from a charity organization and requests a donation, but they need your bank details to process the transaction.",1
+An automated message informs you of a security breach on your account and requests your personal information to secure your account.,1
+Someone claiming to be a bank representative offers a pre-approved loan but requires your personal information to finalize the application.,1
+"A caller impersonates a law enforcement officer and threatens arrest for unpaid taxes unless immediate payment is made, asking for your banking information to settle the alleged debt.",1
+You receive a call stating that your account has been credited with a refund but needs your banking information to confirm the transaction.,1
+"A recorded message informs you of suspicious activity on your account and prompts you to speak with a representative by pressing a button, leading to a scammer who requests your sensitive information.",1
+"A caller poses as a utility provider and threatens to disconnect your services unless an outstanding bill is paid immediately, requesting your banking details for payment.",1

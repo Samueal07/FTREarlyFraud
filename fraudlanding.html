@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Realtime Fraud Detector</title>
+    <style>
+        /* Global Styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        h1, h2, p {
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background-color: #003366;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #4D4D4D;
+            font-weight: bold;
+        }
+        .main-content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-top: 20px; /* Add some space between the header and main content */
+        }
+        .cta-button {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .cta-button a {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #4D4D4D;
+            padding: 20px; /* Add padding to the footer */
+            background-color: #003366; /* Match the background color with the header */
+        }
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 10px;
+            }
+            nav {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Realtime Fraud Detector</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Features</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <main class="container">
+        <div class="main-content">
+            <h2>Advanced Fraud Detection</h2>
+            <p>Our cutting-edge machine learning model detects fraud in real time, ensuring secure transactions for your business.</p>
+            <div class="cta-button">
+                <a href="/check-results">Check Results</a>
+            </div>
+            <h2>Check Results for a Website</h2>
+            <p>Please paste the link below to check results about the website.</p>
+            <!-- Fraud detection form -->
+            <form action="/check-results" method="post">
+                <!-- Input field for link -->
+                <label for="website-link">Enter the link here:</label><br>
+                <input type="text" id="website-link" name="link" placeholder="https://example.com" required><br><br>
+                <!-- Check results button -->
+                <input type="submit" value="Check results">
+            </form>
+        </div>
+    </main>
+    <footer>
+        © 2024 Realtime Fraud Detector. All rights reserved.
+    </footer>
+</body>
+</html>

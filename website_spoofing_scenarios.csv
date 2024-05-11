@@ -1,0 +1,51 @@
+scenario,label
+"Bank Spoofing Site: A fake website that mimics a major bank's homepage, designed to steal login credentials.",1
+"E-commerce Spoofing Site: A spoofed version of a popular online retailer's website, used to capture credit card information.",1
+"Government Agency Spoofing Site: A fraudulent website posing as a government agency, designed to collect sensitive personal data.",1
+Social Media Platform Spoofing Site: A fake social media login page used to capture usernames and passwords.,1
+Email Provider Spoofing Site: A spoofed email provider's login page used to steal email account credentials.,1
+Streaming Service Spoofing Site: A fake streaming service website designed to obtain payment information.,1
+"Software Update Spoofing Site: A spoofed website claiming to offer software updates, but distributing malware.",1
+Technical Support Spoofing Site: A fraudulent technical support site used to gather personal information and payment details.,1
+Online Banking Spoofing Site: A fake online banking website that captures user login details and OTPs.,1
+Charity Organization Spoofing Site: A spoofed charity donation site designed to steal credit card information.,1
+Telecommunications Company Spoofing Site: A fake telecommunications website used to initiate SIM swaps and steal personal information.,1
+Online Auction Spoofing Site: A spoofed online auction site that deceives users into providing payment information.,1
+"Shipping Company Spoofing Site: A fake website posing as a shipping company, designed to collect tracking information and other personal details.",1
+"Job Recruitment Spoofing Site: A fraudulent website posing as a job recruitment site, designed to gather personal information and bank details.",1
+"Utility Provider Spoofing Site: A spoofed website that pretends to be a utility provider, aiming to steal payment information.",1
+"Tax Refund Spoofing Site: A fake website claiming to process tax refunds, used to gather personal and financial information.",1
+Online Gaming Spoofing Site: A spoofed online gaming platform used to steal account credentials and payment information.,1
+"Pharmacy Spoofing Site: A fraudulent website pretending to be an online pharmacy, used to capture personal and payment information.",1
+Travel Agency Spoofing Site: A fake travel agency site designed to steal credit card information and personal data.,1
+Fitness App Spoofing Site: A spoofed fitness app website that captures login credentials and payment information.,1
+"Educational Institution Spoofing Site: A fake website pretending to be an educational institution, designed to gather personal and financial data.",1
+"Hotel Reservation Spoofing Site: A fraudulent website posing as a hotel reservation site, aiming to steal payment information.",1
+"Non-Profit Organization Spoofing Site: A spoofed non-profit organization's website, used to capture personal and financial data.",1
+Electronics Store Spoofing Site: A fake electronics store website used to obtain credit card information.,1
+Sports Team Spoofing Site: A spoofed sports team website designed to gather personal and financial information.,1
+Online Magazine Spoofing Site: A fake online magazine website that distributes malware.,1
+Video Game Store Spoofing Site: A spoofed video game store website used to capture credit card information.,1
+"Real Estate Agency Spoofing Site: A fraudulent website posing as a real estate agency, designed to collect personal and financial data.",1
+"Health Clinic Spoofing Site: A fake website pretending to be a health clinic, aiming to steal personal information.",1
+Musical Band Spoofing Site: A spoofed musical band's website designed to capture personal information and distribute malware.,1
+News Outlet Spoofing Site: A fake news website that redirects users to phishing or malware-laden sites.,1
+Political Campaign Spoofing Site: A spoofed political campaign website used to gather personal and financial data.,1
+"Local Government Spoofing Site: A fraudulent website pretending to be a local government office, designed to gather personal and financial information.",1
+Sports Event Spoofing Site: A fake sports event website aiming to steal credit card information.,1
+Software License Renewal Spoofing Site: A spoofed software license renewal website used to gather payment information.,1
+Insurance Company Spoofing Site: A fake insurance company's website aiming to capture personal and financial information.,1
+Job Application Spoofing Site: A spoofed job application website that gathers personal information and bank details.,1
+Internet Service Provider Spoofing Site: A fake internet service provider website used to initiate SIM swaps and steal personal information.,1
+"Investment Firm Spoofing Site: A fraudulent website posing as an investment firm, designed to gather personal and financial data.",1
+Beauty Product Spoofing Site: A spoofed beauty product website that aims to capture payment information.,1
+Home Improvement Store Spoofing Site: A fake home improvement store website used to gather credit card information.,1
+Non-Profit Fundraiser Spoofing Site: A spoofed non-profit fundraiser website designed to steal personal and financial data.,1
+Property Rental Spoofing Site: A fake property rental website aiming to capture personal and financial information.,1
+"Software Company Spoofing Site: A fraudulent website pretending to be a software company, designed to gather personal and financial data.",1
+Television Channel Spoofing Site: A fake television channel's website that distributes malware.,1
+Cosmetic Store Spoofing Site: A spoofed cosmetic store website aiming to capture credit card information.,1
+"DIY Store Spoofing Site: A fraudulent website posing as a DIY store, used to gather personal and financial data.",1
+Food Delivery Service Spoofing Site: A fake food delivery service website used to gather credit card information.,1
+Real Estate Listing Spoofing Site: A spoofed real estate listing website designed to steal personal and financial information.,1
+"Computer Hardware Store Spoofing Site: A fraudulent website posing as a computer hardware store, used to gather personal and financial data.",1
